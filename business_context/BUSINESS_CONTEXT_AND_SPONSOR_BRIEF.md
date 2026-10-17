@@ -1,7 +1,5 @@
-> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
-
 # Harrowgate — business context and People Director's initiation brief
-**Mettelo Business Analyst Project Studio · MTL-BA-044 · v2.0 · Stage 1**
+**Mettelo Business Analyst Project Studio · MTL-BA-044 · aligned pathway edition · Stage 1**
 Issued 6 July 2026 by Sarah Bennett, People Director. All local figures, organisations, people and employment records are synthetic.
 
 ## Organisation, growth and operating model
@@ -43,31 +41,67 @@ Planning capacity rates: HR £30/hour, service desk £32/hour, Security/applicat
 
 Doing nothing may preserve rework and uncertain access ownership during further hiring. A poorly designed portal might centralise unnecessary personal information, automate the wrong role or hide independent applications behind a reassuring complete flag. Both possibilities matter.
 
-## Sponsor brief and authority
-Sarah reports to the Managing Director and sponsors People transformation. She can commission analysis and propose funding. Security owns access-control exceptions; HR owns employment facts; application owners authorise relevant entitlements; Finance/board approve investment. Sarah cannot grant a client-system permission merely because a starter needs it.
 
-“I want a worker to start with what they need and know whom to contact. I first asked for one portal because people describe too many forms. Show me which hand-offs, dates and approvals matter. A 100% closed-ticket dashboard is not the same as a productive or secure first day.”
+## Business need for this commission
 
-Initial funding: £70,000 total one-off including £7,000 committed to discovery/support; annual incremental ceiling £12,000, excluding recoverable VAT. Include configuration, interface work, controls, data handling, devices where incremental, backfill, training and support. No product is selected and no shared-account or blanket-admin workaround is authorised.
+Approved employment dates and access actions are distributed across HR exports, service tickets, the directory, applications and equipment delivery. A ticket may close before a worker can log in; a revised start date may not reopen work; directory disable does not prove every independent account has been revoked.
 
-Analysis runs 6 July–28 August. The desired limited operational pilot is 12 October. The August replay is isolated and not a real worker deployment. September HR integration capacity is uncertain; later notices supply changed constraints.
+The central challenge is reliable information exchange and recoverable coordination across systems, not merely buying an onboarding portal. Engineering needs clear interface behaviour, data ownership and mapping rules before it can estimate or build a safe bounded integration.
 
-## Outcomes and contested measures
-Sarah proposes 95% verified ready by effective start, but ready and its evidence are not agreed. IT uses closure based on account creation/dispatch; managers need required applications; Facilities needs site/induction facts; Security has a separate revocation/control objective. No target is approved.
+## Illustrative business situation to investigate
 
-Desired outcomes: clear ownership and acknowledgements, correct effective-date handling, appropriate access/expiry, controlled worker data, demonstrable equipment and application readiness, timely revocation and fewer avoidable chases. The BA must propose definitions, scope, denominators, owners, exceptions and evaluation periods.
+HR approves a joiner and publishes a daily read-only export. A service ticket coordinates actions by IT, managers and application owners. The start date then changes after the ticket closes. Equipment and identity actions may now refer to different dates. In a separate leaver case, the directory accepts a disable request but an independent application owner has not confirmed revocation. The team must specify event handling, evidence and recovery without assuming all systems share an identifier or acknowledgement.
+
+This is a source scenario. Your team must analyse it; it is not an approved process, detailed use case or designed solution.
+
+## Sponsor commission and authority
+
+Sarah Bennett, the commissioning sponsor commissions your team as technical business analysts. The decision is: **What bounded HR-to-service-to-identity interface behaviour, data mapping and recovery controls can engineering design and estimate, and which owner decisions or capabilities remain blockers?**
+
+The requested handover is: **A technical BA handover containing interface requirements, mappings, event/failure models, measurable quality proposals and integration transition/assurance planning.**
+
+HR wants authoritative dates respected, IT needs a feasible contract and support model, Security needs approved least-privilege access and revocation evidence, and managers want workers ready on day one. A technically accepted message is not necessarily a completed business outcome.
+
+The sponsor can request analysis but cannot substitute for HR, identity/application, Security, privacy and funding owners. Identify material approvals and unknowns without fabricating named reviewers or sign-off.
 
 ## Scope and exclusions
-Investigate approved-hire to initial readiness/review, including equipment, identity/application approvals, remote/client-site exceptions, date changes and communication. Include mover/leaver dependencies necessary to understand access control, with revocation evidence for the supplied cases.
 
-Exclude payroll replacement, enterprise HR procurement, full client identity-platform redesign, all hiring decisions and automatic access-policy generation. No live provisioning, credential sharing or real personal data is authorised. A wider scope requires a decision.
+**Included:** The approved employment-event hand-off between PeopleRecord, ServiceQueue and directory actions; date revisions, duplicates/missing data and reconciliation; bounded independent-application and privileged-expiry dependencies needed to test completeness of access evidence.
 
-## Dependencies, risks and uncertainty
-Dependencies include authoritative HR dates, manager/application-owner availability, courier lead time, independent SaaS ownership, client approvals, Security review, restricted handling of delivery data and support for existing open cases. Staff can attend one focused weekly session; IT and Security also have routine work.
+**Outside this assignment:** No working connector, live credentials/provisioning, complete entitlement catalogue, enterprise HR procurement, hiring-policy redesign or full organisational change programme. Specify interfaces and controls; do not implement them or invent an approved target mapping.
 
-Known concerns include date corrections not acknowledged, role requests without an owner, closure before delivery/login, privileged expiry evidence missing and directory disable mistaken for complete revocation. They are source concerns, not a completed participant risk assessment.
+## Constraints and evidence limitations
 
-Sarah initially names HR, IT, Security, line managers, Facilities, application owners and new starters. She does not know the full entitlement population, whether every delayed delivery was preventable, how many closures were premature or the sustainable cost of improving them. A contrasting remote/client cohort and independent app owner may need additional involvement.
+The initial one-off envelope is £70,000 including £7,000 committed, with a £12,000 annual incremental ceiling. The current HR export is daily and read-only. Later interface/pilot constraints must be evaluated explicitly; future capability must not be described as already available.
 
-## Decision required
-Recommend a credible intervention/sequence, full cost assumptions, priorities, control/transition dependencies, readiness conditions and value evaluation. Configuration, revised ownership/communication, targeted integration, contained portal capability or deferral may be justified. The pack supplies evidence, not a role/access matrix, requirements, future process, cutover plan or preferred answer.
+The learning commission lasts 6 cohort weeks. Original dates in operational records remain source history; later operational ambitions do not extend the assessed scope. Staff availability is limited: plan proportionate elicitation using supplied interviews and record follow-up questions when real access is unavailable.
+
+The dataset is constructed, observed at its stated cutoff and incomplete for some business questions. An absent event is not always proof an event did not happen. Do not claim representative research, causality, approved targets or realised outcomes merely from these records. Use [the data guide](../evidence/DATA_GUIDE.md) and [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md).
+
+## How the evidence supports the work
+
+| Evidence | Analytical purpose | Relevant tasks |
+|---|---|---|
+| Systems context and technical source bundle | Inspect observed CSV/JSON contract fragments, identifiers, constraints and failure probes. | T1–T5 |
+| Joiners, access requests and independent leavers | Connect technical actions to dated business events and incomplete outcome evidence. | T1–T4 |
+| Security, HR, manager and application-owner testimony | Identify authority, privacy and accountability questions behind interface design. | T1–T5 |
+| Incidents, feedback and policies | Understand exception handling, privileged expiry and evidence gaps. | T4–T6 |
+| Remote-work, control and pilot notices | Revisit integration boundaries, fallback and cutover feasibility under changed constraints. | T5–T7 |
+
+## What leadership needs to receive
+
+Engineering and system owners can distinguish observed contracts from proposed requirements, follow each mapping/sequence to a business need, and identify how failures would be detected and recovered. The handover makes unresolved crosswalks, service levels and approvals visible.
+
+| Task | Required handover content | Assessment weight |
+|---|---|---|
+| T1 | System context/trust-boundary diagram; integration scope; ownership and unresolved contract questions. | 10% |
+| T2 | Interface Requirements Specification covering producer/consumer, triggers, contract validation, acknowledgement and exception behaviour. | 20% |
+| T3 | Source-to-target mapping; technical data dictionary; identifiers, types, null/transformation/rejection rules and ownership. | 20% |
+| T4 | Sequence/event-flow diagrams for joiner, changed date, leaver and privileged expiry; failure/replay/reconciliation specification. | 20% |
+| T5 | Non-functional and control requirements with measurable proposed verification and owner approval status. | 15% |
+| T6 | Integration test scenarios; reconciliation approach; cutover/rollback plan with dependencies and entry/exit criteria. | 10% |
+| T7 | Technical decision record; consistent specification index; trade-offs, blockers and engineering-review readiness recommendation. | 5% |
+
+Use [the task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) for the four acceptance criteria per task and [the submission checklist](../submission/DELIVERABLES_CHECKLIST.md) for the exact handover package. These define the commission; historical stakeholder ambitions are inputs to evaluate, not extra mandatory portfolios.
+
+No preferred solution or completed learner artefacts are provided.

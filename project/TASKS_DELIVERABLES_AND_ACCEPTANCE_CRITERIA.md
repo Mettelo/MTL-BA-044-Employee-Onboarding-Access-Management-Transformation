@@ -127,3 +127,8 @@ These are assignment acceptance criteria used by the assessor. When an output as
 
 ## Portfolio-wide conditions
 All material conclusions must have evidence references or be labelled proposals/assumptions. Preserve raw data, explain transformations and report limitations. Keep diagrams readable and terms/identifiers consistent. Supply an index to every task and identify contributors and AI assistance. Additional documents earn no credit merely for their volume. No completed participant deliverables are provided in the master.
+
+
+## Team handover check
+
+Use [the project-specific deliverables checklist](../submission/DELIVERABLES_CHECKLIST.md) to verify every required component and final submission record. The checklist specifies packaging; the task acceptance criteria define analytical quality.
