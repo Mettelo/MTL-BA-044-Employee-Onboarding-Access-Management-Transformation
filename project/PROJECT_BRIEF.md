@@ -1,4 +1,9 @@
 # Participant commissioning brief
+
+## Required tasks and completion criteria
+
+Use [D01–D12: tasks, deliverables and acceptance criteria](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) as the participant delivery contract. It specifies what you must do, where each output belongs, when to prepare it and how it is reviewed. This guide's broader activity descriptions do not replace those explicit requirements.
+
 **Mettelo Business Analyst Project Studio · MTL-BA-044 · v2.0 · Stage 1**
 **Appointment:** Business Analyst · **Window:** 6 July–28 August 2026
 

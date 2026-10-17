@@ -95,3 +95,11 @@ State any later correction explicitly rather than silently moving the reviewed b
 The official submission is your **delivery repository URL**, through the submission route supplied by Mettelo for the cohort. Include the tag and final submission record as requested by that route. Do not submit project files by email.
 
 A submission is incomplete until naming, review access, version, contribution history and final outputs can be verified. Keep the master resource library distinct from your delivery work throughout.
+
+## Mandatory D01–D12 submission index
+
+Use the [task/deliverable/acceptance contract](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) to see precisely what to submit. Create its outputs in your **own delivery repository**. Include one final index row for every task D01–D12, pointing to the actual path or section, final version/commit, acceptance self-review status, known gap and available review evidence.
+
+D04 includes your requirements and **solution acceptance criteria**; D05 contains this project's domain-specific models; D09 includes your own UAT expectations; D10 assesses evidence without inventing execution; D08 contains the three change responses. The contract's 48 checks are Mettelo's assignment criteria, not answers to those tasks.
+
+Equivalent accessible formats or combined substantial documents are allowed only if the index makes every required task and check independently reviewable. Do not submit empty files, supplied source packs relabelled as analysis, or invented approvals. Keep the existing repository naming, access, Git workflow, contribution, final tag and URL-handover rules above.
