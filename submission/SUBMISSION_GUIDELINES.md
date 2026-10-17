@@ -1,6 +1,6 @@
 # Mettelo BA-044 — separate delivery repository and submission guidelines
 
-**Mettelo Business Analyst Project Studio · MTL-BA-044 · v2.0**  
+**Mettelo Business Analyst Project Studio · MTL-BA-044 · aligned pathway edition**  
 This guide adapts the established Mettelo submission and team-repository standards linked in [source provenance](../reference/OFFICIAL_REFERENCES_AND_SOURCE_PROVENANCE.md). The master is a resource library, not a place to submit participant answers.
 
 ## 1. Create the delivery repository
@@ -41,17 +41,25 @@ Each contributor uses their own GitHub account. Keep CONTRIBUTIONS.md current wi
 
 For individual delivery, identify your own work, source material, external assistance and any simulated/unavailable validation. A stakeholder interview supplied by Mettelo is source evidence, not an interview you personally conducted with a real client.
 
-## 6. Required pathway outputs
+## 6. Exact required team handover
 
-- **T1:** System context diagram, integration scope and ownership questions.
-- **T2:** Interface Requirements Specification.
-- **T3:** Source-to-target mapping and technical data dictionary.
-- **T4:** Sequence/event-flow diagrams and recovery specification.
-- **T5:** Non-functional and control requirements with measurable verification proposals.
-- **T6:** Integration test scenarios, reconciliation approach and cutover/rollback plan.
-- **T7:** Technical decision record and indexed specification baseline.
+**Decision the team supports:** What bounded HR-to-service-to-identity interface behaviour, data mapping and recovery controls can engineering design and estimate, and which owner decisions or capabilities remain blockers?
 
-Index each task and its acceptance criteria in FINAL_SUBMISSION.md. These replace generic end-to-end portfolio requirements. The endpoint is: An integration analysis and assurance handover for a bounded HR-to-service-to-identity capability. No working connector, live provisioning or full organisational change programme.
+**Audience:** HR system owners, IT engineering, identity/application owners and Security.
+
+| Task | Required content | Weight |
+|---|---|---|
+| T1 | System context/trust-boundary diagram; integration scope; ownership and unresolved contract questions. | 10% |
+| T2 | Interface Requirements Specification covering producer/consumer, triggers, contract validation, acknowledgement and exception behaviour. | 20% |
+| T3 | Source-to-target mapping; technical data dictionary; identifiers, types, null/transformation/rejection rules and ownership. | 20% |
+| T4 | Sequence/event-flow diagrams for joiner, changed date, leaver and privileged expiry; failure/replay/reconciliation specification. | 20% |
+| T5 | Non-functional and control requirements with measurable proposed verification and owner approval status. | 15% |
+| T6 | Integration test scenarios; reconciliation approach; cutover/rollback plan with dependencies and entry/exit criteria. | 10% |
+| T7 | Technical decision record; consistent specification index; trade-offs, blockers and engineering-review readiness recommendation. | 5% |
+
+Use [DELIVERABLES_CHECKLIST.md](DELIVERABLES_CHECKLIST.md) to check package content, suggested paths and final repository records. The [task specification](../project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) defines four analytical acceptance criteria per task. The final submission index must have a row for each task ID and link all required components. Grouping documents is acceptable; omitted analysis is not.
+
+No working connector, live credentials/provisioning, complete entitlement catalogue, enterprise HR procurement, hiring-policy redesign or full organisational change programme. Specify interfaces and controls; do not implement them or invent an approved target mapping.
 
 ## 7. Reproduce and review
 

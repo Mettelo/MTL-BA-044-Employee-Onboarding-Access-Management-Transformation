@@ -20,3 +20,8 @@ A submission cannot be assessed as satisfactory while it presents invented appro
 Evidence-backed disagreement with the sponsor is acceptable. A justified conditional/no-go recommendation can score as highly as a proceed recommendation. Assess quality of reasoning and consistency, not matching a hidden preferred solution.
 
 The final submission record must map every task ID to its output and unresolved limitations. Review contributions and revision history as evidence of authorship; do not award marks for commit quantity.
+
+
+## Team handover check
+
+Use [the project-specific deliverables checklist](../submission/DELIVERABLES_CHECKLIST.md) to verify every required component and final submission record. The checklist specifies packaging; the task acceptance criteria define analytical quality.

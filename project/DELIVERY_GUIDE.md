@@ -24,3 +24,8 @@ Use proportionate detail and consistent IDs. Document unanswerable questions and
 
 ## 5. Review and submit
 Review every task acceptance criterion. Cross-check terms, diagram boundaries, numerical claims, proposed behaviours and unresolved decisions. Follow [submission guidance](../submission/SUBMISSION_GUIDELINES.md) for a separate repository, accessible history and tagged final index. A review log may record self-review where no peer is available; do not fabricate a reviewer.
+
+
+## Team handover check
+
+Use [the project-specific deliverables checklist](../submission/DELIVERABLES_CHECKLIST.md) to verify every required component and final submission record. The checklist specifies packaging; the task acceptance criteria define analytical quality.
