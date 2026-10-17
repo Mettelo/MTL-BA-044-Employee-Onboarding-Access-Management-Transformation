@@ -1,3 +1,5 @@
+> **Commission note:** This is historical fictional source evidence. Requests for full lifecycle outputs or pilot delivery are stakeholder ambitions to evaluate. The assessed scope and endpoint are defined in [the current project brief](../project/PROJECT_BRIEF.md). Later pilot evidence is optional and is not participant-executed testing.
+
 # Portal experiment, access observations and readiness challenge
 **Mettelo BA-044 · Stage 6 · Compiled/released 24 August**
 Isolated synthetic replay; no real worker data, credentials or live access changes.
