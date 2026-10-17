@@ -1,0 +1,6 @@
+incident_id,joiner_id,logged_date,application,observation,resolved_date
+AC01,J002,2026-06-10,directory,laptop_not_received,2026-06-11
+AC02,J003,2026-06-12,directory,activation_token_expired,2026-06-16
+AC03,J005,2026-06-17,client_portal,application_owner_approval_missing,2026-06-18
+AC04,J007,2026-06-25,directory,delivery_delayed,
+AC05,J008,2026-06-29,expenses,role_not_assigned,

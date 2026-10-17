@@ -1,0 +1,6 @@
+task_code,existing_task_label,team,existing_completion_evidence
+CHK01,contract_approved,HR,HR_record
+CHK02,laptop_ready,IT,dispatch_reference
+CHK03,account_created,IT,directory_event
+CHK04,desk_and_pass,Facilities,local_spreadsheet_tick
+CHK05,welcome_email,manager,email_sent
