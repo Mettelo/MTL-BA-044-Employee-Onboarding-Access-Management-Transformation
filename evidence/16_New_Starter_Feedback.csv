@@ -1,7 +1,0 @@
-feedback_id,joiner_id,response_date,readiness_rating_1_to_5,comment_code
-FB01,J001,2026-06-09,4,worked_after_induction
-FB02,J002,2026-06-12,2,late_laptop
-FB03,J003,2026-06-17,1,date_change_not_reflected
-FB04,J005,2026-06-19,2,client_access_delayed
-FB05,J006,2026-06-23,4,ready
-FB06,J008,2026-06-30,3,core_login_only

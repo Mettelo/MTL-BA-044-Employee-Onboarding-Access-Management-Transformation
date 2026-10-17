@@ -1,28 +1,33 @@
-# Project brief
+# Participant commissioning brief
+**Mettelo Business Analyst Project Studio · MTL-BA-044 · v2.0 · Stage 1**
+**Appointment:** Business Analyst · **Window:** 6 July–28 August 2026
 
-## Appointment
+## Commission and decision
+You are joining Harrowgate Professional Services Ltd. New starters cannot work as expected on day one, dates change without acknowledged handover and some leaver permissions remain unverified.
+The sponsor favours one onboarding and access portal. Treat that as a hypothesis. Your commission is to establish the business need, investigate competing accounts and recommend an intervention, sequence or qualified deferral. Leadership needs a decision it can fund and govern, not a catalogue of attractive features.
 
-You are the Business Analyst assigned to Harrowgate Professional Services Ltd. New starters arrive without equipment or appropriate access, while some leavers retain access. Teams use separate forms and queues. The sponsor wants one onboarding portal, but ownership and authoritative dates are disputed.
+The [business context and sponsor brief](../business_context/BUSINESS_CONTEXT_AND_SPONSOR_BRIEF.md) describes the organisation, source management information, initial boundary, funding and uncertainty. It is source material, not your finished problem statement, scope analysis or business case.
 
-The sponsor's preferred purchase is a hypothesis. Establish the business need, investigate conflicting accounts and make a defensible recommendation. Budget: £70,000 one-off and £12,000 annual operating cost; eight-week analysis engagement, followed by a separately authorised pilot. No production implementation is authorised by this exercise.
+## Your responsibilities
+You lead analysis, elicitation, modelling, facilitation and an evidence-based recommendation. You do not grant policy exceptions, legal/clinical/security approval, procurement authority or production access. Establish who should validate each material claim and who must decide.
 
-## Boundary
+Cover stakeholder analysis and elicitation; current and proposed processes with exceptions; cause investigation; business, functional, non-functional and transition requirements; rule proposals; appropriate use cases/stories and acceptance criteria; priorities; options/costs; traceability; RAID/change impacts; UAT/readiness; and benefits evaluation. Choose formats that support the decision, rather than one document for every label.
 
-From approved hire through day-one readiness and initial access review; include mover and leaver dependencies affecting access controls. Include equipment, remote delivery, approvals, identity and audit evidence. Exclude payroll replacement and a full HR platform procurement.
+Business access approval, technical provisioning, successful use and HR employment status are different facts. Privileged access and emergency exceptions need appropriate owners; a directory disable does not prove independent applications, active sessions or physical passes were revoked.
 
-## Expected participant work
+## Decision-quality expectations
+Distinguish observed events, interpretations, proposed targets and unknowns. An interview statement is not automatically an approved requirement. A policy excerpt may conflict with an uncontrolled note. A supplier demonstration is not proof of a contracted interface or a successful implementation.
 
-Produce a problem/scope statement, elicitation plan and stakeholder analysis; current-state and future-state models; evidence-based root-cause analysis; requirements and business rules; prioritisation and traceability; options appraisal with costs/assumptions; acceptance criteria and UAT approach; change impacts, transition controls and benefits evaluation. Choose useful notation rather than completing templates mechanically.
+Any options analysis should consider the minimum credible change as well as more substantial approaches. Explain complete incremental cost, staff capacity, dependencies, exclusions, adoption and control implications. Make assumptions explicit and say what evidence could change the recommendation.
 
-## Success
+## Evidence and validation
+The source release model deliberately gives incomplete information. Ask follow-ups with a purpose. If the source or facilitator cannot establish a fact, record its consequence rather than inventing an answer. Record disagreement and authority; do not manufacture stakeholder sign-off.
 
-Sponsor aspiration: improve verified day-one readiness and timely access removal while reducing duplicate requests. 'Ticket closed' and 'employee able to work' need separate definitions. Proposed target: 95% verified ready by start time; Security has a separate leaver-control objective.
+The later prototype experiment is a disputed supplier approach, not necessarily your design. Define independent acceptance evidence before reading results. Explain what the observations do and do not establish and distinguish a recommendation to investigate from a decision to release.
 
-Agree definitions, denominators, baseline period, exclusions and ownership before treating targets as approved. Quantify uncertainty and distinguish evidence from stakeholder opinion.
+## Boundaries and handover
+The commissioned boundary and exclusions appear in the sponsor brief. Do not silently expand the engagement or substitute technology delivery for business analysis. No real personal data, production transactions or credentials belong in this exercise.
 
-## Decisions
+Use your own separate MTL-BA-044-<team-name> delivery repository and the [established submission model](../submission/SUBMISSION_GUIDELINES.md). Retain raw evidence, versioned baselines, individual contribution and review history. Final handover is the tagged delivery repository URL and indexed recommendation/evidence portfolio through Mettelo's cohort route.
 
-Sponsor approves scope/funding. Operational owners validate working practices. Relevant control owners approve policy and safety/security interpretations. The BA facilitates and records decisions; the BA cannot waive controls.
-
----
-Mettelo Business Analyst Project Studio | MTL-BA-044 | Fictional simulation source | Release 1
+Use the [timeline](PROJECT_TIMELINE.md), [delivery guide](DELIVERY_GUIDE.md) and [assessment rubric](ASSESSMENT_CRITERIA.md). Success means a reviewer can follow the need, evidence, choices, changes, acceptance conditions and intended value, including the limits of your conclusion. No completed BA answers are supplied.
