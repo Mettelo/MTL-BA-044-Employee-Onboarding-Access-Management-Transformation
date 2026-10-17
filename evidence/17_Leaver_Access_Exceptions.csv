@@ -1,5 +1,0 @@
-leaver_id,leaving_effective_at,directory_disabled_at,saas_access_revoked_at,physical_pass_disabled_at,exception_note
-L001,2026-06-05T17:00+01:00,2026-06-05T17:05+01:00,2026-06-05T17:15+01:00,2026-06-05T17:00+01:00,manual_checks_complete
-L002,2026-06-12T17:00+01:00,2026-06-12T17:10+01:00,2026-06-15T09:00+01:00,2026-06-12T17:00+01:00,saas_not_linked_to_directory
-L003,2026-06-19T12:00+01:00,2026-06-19T17:00+01:00,2026-06-19T17:30+01:00,2026-06-19T17:00+01:00,default_time_used
-L004,2026-06-26T17:00+01:00,2026-06-26T17:00+01:00,,2026-06-26T17:00+01:00,saas_revocation_unverified
