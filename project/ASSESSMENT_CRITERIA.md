@@ -47,3 +47,21 @@ Do not reward invented stakeholder/legal approval, fabricated test execution, un
 Assess individual contributions using issues, commits, pull requests, reviews and CONTRIBUTIONS.md. Solo self-review is acceptable when honestly labelled; invented peer review is not.
 
 A participant can recommend a different option from another strong participant and earn the same high score. The decisive question is whether a decision maker can trust and use the reasoning, understand its limits and see the next responsible action.
+
+## Task acceptance and scoring cross-reference
+
+First review the [48 acceptance checks under D01–D12](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md). Record accepted, revise or unresolved-with-evidence for each material check. A simulated approval that cannot be obtained should be stated honestly; do not reward invented sign-off. Completion checks make the expected outputs explicit; they do not replace the weighted judgement above or award marks for document count.
+
+| Rubric area | Main task evidence |
+|---|---|
+| Business need and scope | D01 |
+| Stakeholders, elicitation and conflict | D02 |
+| Current state and evidence/causes | D03 |
+| Requirements, rules and testability | D04–D05 |
+| Options and priority rationale | D06–D07 |
+| Traceability and changed constraints | D07–D08 |
+| UAT, controls and readiness | D09–D10 |
+| Recommendation and value | D06, D10–D12 |
+| Communication, repository and contribution | All tasks; final index in D12 |
+
+In particular, D04 must contain participant-authored **solution acceptance criteria**, and D09 must link expected test outcomes to them. The master's assignment acceptance checks are not pre-completed solution criteria or a model answer.

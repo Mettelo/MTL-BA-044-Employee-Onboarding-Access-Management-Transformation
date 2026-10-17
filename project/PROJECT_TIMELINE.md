@@ -26,3 +26,20 @@ Retain initiation, discovery/current-state, pre-change requirements/options, eac
 The [manifest](RELEASE_MANIFEST.csv) assigns each source file to a stage and earliest date. Stages 4 and 7 primarily require participant synthesis; absence of a supplied answer pack is deliberate. Facilitators distribute only the current files in a private learner space. The public master contains all stages and cannot enforce secrecy.
 
 If validation is unavailable, record the assumption, owner/question, effect on the decision and evidence still needed. The passage of a week is not approval. Final work follows [submission guidelines](../submission/SUBMISSION_GUIDELINES.md), including review access, contribution history and the submission tag.
+
+## Concrete task hand-offs
+
+Follow the [task/output/acceptance contract](TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md):
+
+| Point | Required task output |
+|---|---|
+| Week 1 | D01 initiation brief and initial RAID |
+| Week 2 | D02 stakeholder and elicitation report |
+| Week 3 | D03 current-state model and reproducible evidence analysis; start D04 |
+| Week 4 | D04 requirements/solution acceptance criteria; D05 domain models; D06 future-state/options; D07 priority/traceability baseline |
+| Each Stage 5 notice | D08 impact response and versioned updates |
+| Before Stage 6 results | D09 independent UAT plan/scenarios |
+| After 24 August source release | D10 observation/issues assessment and readiness recommendation |
+| Week 8 final playback | D11 benefits/transition evaluation and D12 executive handover, indexed/tagged delivery repository |
+
+The task contract names the expected files and checks. Tasks can iterate as evidence evolves; retain earlier versions rather than present late evidence as known at initiation.

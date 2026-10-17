@@ -1,4 +1,13 @@
 # MTL-BA-044 — Employee Onboarding & Access Management Transformation
+
+## Start with the tasks and required deliverables
+
+**Project type:** Internal business systems and access-control process analysis. Joiner readiness, HR date changes, appropriate application access and leaver/mover dependencies.
+
+Open [What you must do, deliver and demonstrate](project/TASKS_DELIVERABLES_AND_ACCEPTANCE_CRITERIA.md) before starting. It defines **D01–D12**, exact output paths, timing, project-specific coverage and **48 assignment acceptance checks**. Start at D01; D04 requires your own requirements and solution acceptance criteria, and D09 requires tests derived from them.
+
+The change notices are later scope/requirements constraints handled in D08. They do not turn this project into an organisational change-management assignment. Produce all work in your separate delivery repository; no answers belong in this master.
+
 **Mettelo Business Analyst Project Studio · v2.0**
 **Fictional client:** Harrowgate Professional Services Ltd · **Role:** Business Analyst · **Duration:** eight weeks
 
